@@ -1,0 +1,2 @@
+sentence-transformers>=3.0
+groq>=1.0
